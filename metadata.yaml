@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8652
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Morton_%28playwright%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19407#Speed-the-PloughA-Comedy-In-Five-Acts--As-Performed-At-The-Theatre-Royal-Covent-Garden
 gutenberg_issued: '2006-09-29'
 gutenberg_type: Text
 identifiers:
